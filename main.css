@@ -1,0 +1,12 @@
+html{
+    background: url('mainbg.jpg') no-repeat center fixed;
+    background-size: cover;
+}
+h1{
+    color: black;
+    font-family: arial;
+}
+p{
+    color: #dddddd;
+    font-family: 'Times new roman';
+}
